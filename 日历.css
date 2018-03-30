@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-03-28 13:58:56
+ * @version $Id$
+ */
+body{
+	background-color:#333;
+}
+
+.head {
+     background-color:red;
+        height:250px;
+        width:380px;
+        border-collapse: collapse;
+            }
+             
+
+ .head tr{
+	color:white;
+	font-size: 100px;
+	font-weight: bold;
+}
+
+.week {
+    background-color:white;
+     width:380px;
+}
+.week th{
+	text-align: left;
+}
+
+.day {
+  background-color:white ;
+  width:380px;
+   height:300px;
+}  
+
